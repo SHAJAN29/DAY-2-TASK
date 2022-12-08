@@ -1,0 +1,9 @@
+write a blog on difference between document and window objects?
+
+Dom (document object module)is inside of BOM (browser object module) or window , which means Document object is property of window object, we can also access dom property using window,we can access the element in the HTML page using dom also window because window is a global property, window.document or just document,because window is global by default it takes it as window.
+Exemple;
+window.document .title
+Or
+document.title
+
+
